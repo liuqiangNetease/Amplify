@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/LQ/Scene/1_Gradients.unity
+  isLoaded: 1
+  isActive: 1
