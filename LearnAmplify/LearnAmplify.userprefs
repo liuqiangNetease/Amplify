@@ -1,8 +1,8 @@
 ﻿<Properties StartupItem="Assembly-CSharp.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/LQ/shader&amp;mat/1_Gradient.shader">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/LQ/shader&amp;mat/2_healthBar.shader">
     <Files>
-      <File FileName="Assets/LQ/shader&amp;mat/1_Gradient.shader" Line="4" Column="2" />
+      <File FileName="Assets/LQ/shader&amp;mat/2_healthBar.shader" Line="7" Column="34" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
